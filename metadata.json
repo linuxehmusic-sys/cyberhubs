@@ -1,5 +1,9 @@
 {
-  "name": "Master Web",
-  "description": "A professional hacker-themed dashboard with matrix effects, bento grid layout, Kali Linux tools, India Open Data, National Portal, NSWS, NSDC, Digital Seva, and a comprehensive CYBER-INFO hub integration via Gemini AI.",
-  "requestFramePermissions": []
+  "name": " Linuxeh Forensics ",
+  "description": "A high-security Cyber Investigation and Digital Forensics platform for legal cybersecurity researchers, featuring OSINT, network monitoring, evidence management, and malware analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
 }
